@@ -1,6 +1,7 @@
 ---
 title: "Autumn 100 – 2019 Race Report"
 date: "2019-10-16T18:34:25"
+image: "/assets/images/CENTR-19-A100-FINISH-449.jpg"
 tags: [
   "race-reports"
 ]
@@ -38,15 +39,15 @@ The start of the Autumn 100 is quite congested for the first half mile. There’
 
 Along the river to Moulsford, through the town, down past the sports fields, under the railway bridge and then more paths along the river. There’s a couple of fields to get through and then along the bottom of garden that back onto the river, past the boating place and into Wallingford for a small aid station.
 
-<figure><img loading="lazy" decoding="async" src="assets/images/CENTR-19-A100-BENSON-out-282-1-1024x683.jpg" alt="Autumn 100 - Benson Out"></figure>
+<figure><img loading="lazy" decoding="async" src="assets/images/CENTR-19-A100-BENSON-out-282.jpg" alt="Autumn 100 - Benson Out"></figure>
 
 There’s a boring section next to Benson, over the weir, past the cafe and into the fields again. This section is okay for a bit then your through Shillingford, along the road and back into fields by the river. A little further it’s over the bridge to the first turnaround point.
 
 I quickly grabbed some food and then headed back the way I came. This is where it gets interesting as you start to see people coming the other way. Lots of ‘Well Done!’ and ‘Good Effort’ passing back and forth.
 
--   <figure><img loading="lazy" decoding="async" src="assets/images/CENTR-19-A100-BENSON-back-209-1024x683.jpg" alt="Autumn 100 - Benson Back 2" data-id="1259" data-link="https://kennetrunner.com/?attachment_id=1259"></figure>
+-   <figure><img loading="lazy" decoding="async" src="assets/images/CENTR-19-A100-BENSON-back-209.jpg" alt="Autumn 100 - Benson Back 2" data-id="1259" data-link="https://kennetrunner.com/?attachment_id=1259"></figure>
     
--   <figure><img loading="lazy" decoding="async" src="assets/images/CENTR-19-A100-BENSON-back-210-1024x683.jpg" alt="Autumn 100 - Benson Back 1" data-id="1260" data-link="https://kennetrunner.com/?attachment_id=1260"></figure>
+-   <figure><img loading="lazy" decoding="async" src="assets/images/CENTR-19-A100-BENSON-back-210.jpg" alt="Autumn 100 - Benson Back 1" data-id="1260" data-link="https://kennetrunner.com/?attachment_id=1260"></figure>
     
 
 I got back to Goring in around 4:25, about 30 minutes slower than the first time I’d run the Autumn 100. However I was happy with that given the mud / weather. I grabbed some food, changed the blocks of mud on the end of my legs for some clean socks and shoes and put on a dry top.
@@ -58,9 +59,9 @@ This leg is the least known to me. I’ve run it a couple of times, but not as m
 
 The next section is across some hilly fields and an opportunity for one of Stuart Marchs’ iconic photos
 
--   <figure><img loading="lazy" decoding="async" src="assets/images/CENTR-19-A100-Swyncombe-out-354-1-1024x683.jpg" alt="Swyncombe Out 1" data-id="1263" data-link="https://kennetrunner.com/?attachment_id=1263"></figure>
+-   <figure><img loading="lazy" decoding="async" src="assets/images/CENTR-19-A100-Swyncombe-out-354.jpg" alt="Swyncombe Out 1" data-id="1263" data-link="https://kennetrunner.com/?attachment_id=1263"></figure>
     
--   <figure><img loading="lazy" decoding="async" src="assets/images/CENTR-19-A100-Swyncombe-out-353-1024x683.jpg" alt="Swyncombe Out 2" data-id="1262" data-link="https://kennetrunner.com/?attachment_id=1262"></figure>
+-   <figure><img loading="lazy" decoding="async" src="assets/images/CENTR-19-A100-Swyncombe-out-353.jpg" alt="Swyncombe Out 2" data-id="1262" data-link="https://kennetrunner.com/?attachment_id=1262"></figure>
     
 
 36 miles covered, there was only a mile and a half to the second turnaround point at Swyncombe. Quick change of socks at the aid station.  
@@ -148,6 +149,6 @@ The Finish
 Autumn 100 completed in 27:44:10. Just over 15 minutes inside the cut-off. Not great, but a finish.  
 Centurion 100 Mile Grand Slam completed. Four 100 miles races in 5.5 months.
 
-<figure><img loading="lazy" decoding="async" src="assets/images/CENTR-19-A100-FINISH-449-1024x683.jpg" alt="Centurion Grand Slam Finish"></figure>
+<figure><img loading="lazy" decoding="async" src="assets/images/CENTR-19-A100-FINISH-449.jpg" alt="Centurion Grand Slam Finish"></figure>
 
 I mentioned, above, seeing a dejected looking Sharon Dickson on her way to Reading. Sadly she missed the cut-off at Reading aid station (87.5 miles). Instead of taking a seat and complaining / waiting for a lift back to the Autumn 100 HQ, as many people would have (myself included), she removed her race number and (out of the race officially) walked back to Goring anyway just to finish the distance. That is an incredible spirit and unbelievable display of mental strength.

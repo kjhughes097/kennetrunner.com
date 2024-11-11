@@ -1,6 +1,7 @@
 ---
 title: "100 Mile Training Week"
 date: "2020-06-02T09:47:28"
+image: "/assets/images/100-mile-training-week.png"
 tags: [
   "challenges"
 ]
@@ -24,7 +25,7 @@ The local sports field was ideal as it was only 0.6 miles away, and a nice soft 
 I had planned 2 runs of about 7-8 miles per day, but occasionally bumped it up a little just to allow a lie in the following day or a shorter lunchtime effort instead.  
 By Friday I was feeling the strain, and felt like I needed a recovery day, so I changed the rest of the plan, took the Saturday off as recovery and then finished the final 31 miles (50k) in one go on the Sunday.
 
-<figure><img loading="lazy" decoding="async" src="assets/images/100-mile-training-week-1024x286.png" alt=""></figure>
+<figure><img loading="lazy" decoding="async" src="assets/images/100-mile-training-week.png" alt=""></figure>
 
 The Sunday run was a bit of a homeage to the Autumn 100, my first 100 mile finish, first sub 24 hrs and one of my favourite races.
 

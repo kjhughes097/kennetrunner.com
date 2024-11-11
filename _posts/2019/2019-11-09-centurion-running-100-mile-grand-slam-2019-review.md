@@ -1,7 +1,7 @@
 ---
 title: "Centurion Running 100 Mile Grand Slam – 2019 Review"
 date: "2019-11-09T15:10:23"
-image: "/assets/images/CENTR-19-A100-FINISH-447.jpg"
+image: "/assets/images/CENTR-19-A100-FINISH-449.jpg"
 tags: [
   "challenges"
 ]

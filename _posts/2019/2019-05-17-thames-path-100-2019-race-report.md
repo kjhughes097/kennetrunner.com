@@ -1,6 +1,7 @@
 ---
 title: "Thames Path 100 – 2019 Race Report"
 date: "2019-05-17T15:22:38"
+image: "/assets/images/CENTR-19-FINISH-328.jpg"
 tags: [
   "race-reports"
 ]
@@ -26,12 +27,12 @@ I woke around 6am feeling refreshed, but lazed around till 7:30.
 Breakfast was a yoghurt / fruit / granola thing I’d bought the day before, some Belvita breakfast bites and a tea and coffee.  
 I then headed to Race HQ for the usual Centurion slick registration, kit check, drop bag process. With all that done I was ready to go.
 
-<figure><img loading="lazy" decoding="async" src="assets/images/CENTR-19-TP100-Start-47-1024x683.jpg" alt="Thames Path 100 Start"></figure>
+<figure><img loading="lazy" decoding="async" src="assets/images/CENTR-19-TP100-Start-47.jpg" alt="Thames Path 100 Start"></figure>
 
 I met a few people I knew milling about at the start, waiting for the off. Everybody was eager to get going, the weather was good and there was a general sense of excitement.  
 After a race briefing from James and a short countdown the horn blew and the Thames Path 100 – 2019 edition was off.
 
-<figure><img loading="lazy" decoding="async" src="assets/images/CENTR-19-TP100-WraysburyAid2-199-1024x683.jpg" alt="Thames Path 100 Aid Station 2"></figure>
+<figure><img loading="lazy" decoding="async" src="assets/images/CENTR-19-TP100-WraysburyAid2-199.jpg" alt="Thames Path 100 Aid Station 2"></figure>
 
 There’s generally a bit of bunching up of the first couple of miles until people start to thin out a little. After this, for the next 20 or 30 miles, I find is usually the time I chat to other runners. Everyone is still fresh and full of excitement.
 
@@ -40,7 +41,7 @@ The Middle
 
 I made sure, at each aid station, I grabbed a few items into a doggy bag to slowed for the next mile or so while I ate them. This minimised the time at aid stations and worked well. The other thing I did this time was to wash my face off at every change. Every indoor aid station I nipped to the lo and just splashed a few handfuls of water on myself. Probably just mental, bit I felt like it gave me a bit of a boost.
 
-<figure><img loading="lazy" decoding="async" src="assets/images/CENTR-19-TP100-CookhamAid4-279-1024x683.jpg" alt="THames Path 100 aid station 4"></figure>
+<figure><img loading="lazy" decoding="async" src="assets/images/CENTR-19-TP100-CookhamAid4-279.jpg" alt="THames Path 100 aid station 4"></figure>
 
 I’m not really a big fan of the bit through Windsor/Eton, and over the bridge, but I trudged on. I usually have a bad-ish spell at about 30-35 miles, and the same thing happened in this event. I was glad to get to the Marlow area, where there was a little detour due to some works going on. There was a short sharp shower here and by the time I stopped and put my waterproof on it was virtually over.  
 After the detour the next section was enjoyable and it felt like I was moving well (12 min/mile pace).
@@ -63,11 +64,11 @@ Not sure if the new day and perked me up, but I was pushing on now. I covered th
 A sub 24 hour finish was on, but my brain wasn’t working well and kept getting lost on the calculations. At the final section of path before turning in to the field I was amazed to see 23:15 on the clock. I pushed on for a 23:16:05 finish. A Thames Path 100 PB for me by almost 3 hours and a 100 mile PB by over 15 minutes.  
 **Very pleased !**
 
--   <figure><img loading="lazy" decoding="async" src="assets/images/CENTR-19-FINISH-330-1024x683.jpg" alt="Thames Path 100 finish line photo" data-id="1213" data-link="https://kennetrunner.com/?attachment_id=1213"></figure>
+-   <figure><img loading="lazy" decoding="async" src="assets/images/CENTR-19-FINISH-330.jpg" alt="Thames Path 100 finish line photo" data-id="1213" data-link="https://kennetrunner.com/?attachment_id=1213"></figure>
     
--   <figure><img loading="lazy" decoding="async" src="assets/images/CENTR-19-FINISH-329-1024x683.jpg" alt="" data-id="1212" data-link="https://kennetrunner.com/?attachment_id=1212"></figure>
+-   <figure><img loading="lazy" decoding="async" src="assets/images/CENTR-19-FINISH-329.jpg" alt="" data-id="1212" data-link="https://kennetrunner.com/?attachment_id=1212"></figure>
     
--   <figure><img loading="lazy" decoding="async" src="assets/images/CENTR-19-FINISH-328-1024x683.jpg" alt="Thames Path 100 finish photos" data-id="1211" data-link="https://kennetrunner.com/?attachment_id=1211"></figure>
+-   <figure><img loading="lazy" decoding="async" src="assets/images/CENTR-19-FINISH-328.jpg" alt="Thames Path 100 finish photos" data-id="1211" data-link="https://kennetrunner.com/?attachment_id=1211"></figure>
     
 
 A few lessons learnt and things to do next time:

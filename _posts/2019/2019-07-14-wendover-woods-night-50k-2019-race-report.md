@@ -1,6 +1,7 @@
 ---
 title: "Wendover Woods Night 50K – 2019 Race Report"
 date: "2019-07-14T20:44:48"
+image: "/assets/images/CENTR-19-50KM-FINISH-157.jpg"
 tags: [
   "race-reports"
 ]
@@ -31,6 +32,6 @@ The Finish
 I was yo-yoing with a guy. He would overtake me on the hills, I’d overtake him on the more runable sections. I managed to keep ahead of him for the back half of the lap. I was pushing hard now to stay in front of him. The guy passed me on the final hill but I managed to get in front again. I then held on to the lead for the final section. It wasn’t that I was racing him as such, I was simply using him to push myself.  
 I knew that the hills on this race would make good training for the North Downs Way 100 in three weeks.
 
-<figure><img loading="lazy" decoding="async" src="assets/images/CENTR-19-50KM-FINISH-158-1024x683.jpg" alt="Wendover Woods Night 50k Finish 2"></figure>
+<figure><img loading="lazy" decoding="async" src="assets/images/CENTR-19-50KM-FINISH-158.jpg" alt="Wendover Woods Night 50k Finish 2"></figure>
 
 [I was pretty happy with a 7:18 finish at the Wendover Wood Night 50k. This was](https://www.strava.com/activities/2527411280) about 25 minutes than the same distance on this course last year. Now onwards to the next race – North Downs Way 100.

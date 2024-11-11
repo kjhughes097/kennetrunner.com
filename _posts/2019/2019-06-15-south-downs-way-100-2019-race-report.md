@@ -1,6 +1,7 @@
 ---
 title: "South Downs Way 100 – 2019 Race Report"
 date: "2019-06-15T22:20:50"
+image: "/assets/images/CENTR-19-SDW100-FINISH-702"
 tags: [
   "race-reports"
 ]
@@ -36,8 +37,6 @@ I’d been washing my face at every chance again. At halfway I put on clean sock
 
 After Washington I was onto territory that I’d run before at last years [South Downs Way 50](https://kennetrunner.com/south-downs-way-50-2018-race-report/). I always find it better if I know the route, so this perked me up a bit. At this stage I was still moving at a reasonable pace on the downhills and flat section and had a decent marching speed on the uphills.
 
-<figure><img loading="lazy" decoding="async" src="assets/images/Screenshot-from-2019-10-23-21-16-50.png" alt="South Downs Way 100 - Course Profile"></figure>
-
 I remember coming down the hill to Housedean Farm and drop bag 2. I met my friend Giacomo Squintani at the aid station, which I was surprised at again. It turns out he was having a bit of a headtorch nightmare.
 
 By this stage I was death marching it in. The soles of my feet were just too painful to run. I was seeking out the grassy side, or least ‘rocky’ side of the trail where I could.  
@@ -50,13 +49,13 @@ Coming off the final hill, down the ‘gulley’ towards the road I came across 
 
 When you get to the road there’s still a couple of miles to go. I recall for the SDW50 last year I put in a decent couple of 8:30 miles here for a strong finish. Not the case this year… More like 18 minute miles. The finish is at the sports centre and requires a lap of the athletics track (well, 300m of it). I don’t remember exactly but I think I picked up the pace and shuffle around to the finish.
 
--   <figure><img loading="lazy" decoding="async" src="assets/images/CENTR-19-SDW100-FINISH-700-1024x683.jpg" alt="South Downs Way 100 - Finish 1" data-id="1226" data-link="https://kennetrunner.com/south-downs-way-100-2019-race-report/centr-19-sdw100-finish-700/"></figure>
+-   <figure><img loading="lazy" decoding="async" src="assets/images/CENTR-19-SDW100-FINISH-700" alt="South Downs Way 100 - Finish 1" data-id="1226" data-link="https://kennetrunner.com/south-downs-way-100-2019-race-report/centr-19-sdw100-finish-700/"></figure>
     
--   <figure><img loading="lazy" decoding="async" src="assets/images/CENTR-19-SDW100-FINISH-701-1024x683.jpg" alt="South Downs Way 100 - Finish 2" data-id="1227" data-link="https://kennetrunner.com/south-downs-way-100-2019-race-report/centr-19-sdw100-finish-701/"></figure>
+-   <figure><img loading="lazy" decoding="async" src="assets/images/CENTR-19-SDW100-FINISH-701" alt="South Downs Way 100 - Finish 2" data-id="1227" data-link="https://kennetrunner.com/south-downs-way-100-2019-race-report/centr-19-sdw100-finish-701/"></figure>
     
 
 South Downs Way 100, race 2 of the Grand Slam complete in 26:28:25. I was disappointed with this time as I think I have a sub 24 hour in me. I’ll maybe have to have another bash at this one sometime.
 
-<figure><img loading="lazy" decoding="async" src="assets/images/CENTR-19-SDW100-FINISH-702-1024x683.jpg" alt="South Downs Way 100 - Finish Buckle"></figure>
+<figure><img loading="lazy" decoding="async" src="assets/images/CENTR-19-SDW100-FINISH-702" alt="South Downs Way 100 - Finish Buckle"></figure>
 
 Next up is the North Downs Way 100 in 8 weeks.

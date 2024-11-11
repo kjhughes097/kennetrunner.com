@@ -39,14 +39,14 @@ Just before 6am we had a race briefing and then they walked us down to the start
 Anyway we set off at 6 precisely. I kept things steady initially thinking that I should make the most of the cooler part of the day.  
 It was getting warm by the time I hit the first aid station after about 7 miles. Then shortly afterwards we hit a few hill. By now I was completely soaked in sweat from the humidity and effort (even though I was taking it much easier now). It was as if I’d just gotten out the shower.
 
-<figure><img loading="lazy" decoding="async" src="assets/images/CENTR-19-NDW100-Aid1-Puttenham-234-1024x683.jpg" alt="North Downs Way 100 - Aid 1"></figure>
+<figure><img loading="lazy" decoding="async" src="assets/images/CENTR-19-NDW100-Aid1-Puttenham-234.jpg" alt="North Downs Way 100 - Aid 1"></figure>
 
 By the time I got to the second aid station at Newlands Corner (15ish miles) I knew it was going to be a really tough day. t felt like I was dehydrated. I kept needing a pee but when I stopped to go very little would come out. Then a couple of minutes later I’d need again. Very odd sensation.
 
 The Middle
 ----------
 
-<figure><img loading="lazy" decoding="async" src="assets/images/CENTR-19-NDW100-Aid3-BoxHill-135-1024x683.jpg" alt="North Downs Way 100 - Aid 3"></figure>
+<figure><img loading="lazy" decoding="async" src="assets/images/CENTR-19-NDW100-Aid3-BoxHill-135.jpg" alt="North Downs Way 100 - Aid 3"></figure>
 
 My goals were to get to half way in 12 hours, 75 miles in 20 hours and finish before the 30 hour cut-off. I was moving pretty well most of the day. Certainly some 18 minute miles, but those were on the hillier sections. I made it to the half way point at Knockholt Pound Village Hall in 11:45, so a little inside my target time.
 
@@ -61,7 +61,7 @@ Shortly after leaving the Wrotham aid station things get tough. My left calf was
 
 I persevered. Given that this was the third of the four 100 mile Grand Slam races I was adamant that I would not give up unless I absolutely had to. The pain wasn’t getting any worse whilst walking so I just cracked on. Moving at walking pace meant I began to get worried about cut-offs. I was continually doing mental calculations to figure out what speed I’d need to stay ahead of the cutt-offs.
 
-<figure><img loading="lazy" decoding="async" src="assets/images/CENTR-19-NDW100-Aid6-Botley-112-1024x683.jpg" alt="North Downs Way 100 - Aid 6"><figcaption>On the way to Aid Station 6 (Botley)</figcaption></figure>
+<figure><img loading="lazy" decoding="async" src="assets/images/CENTR-19-NDW100-Aid6-Botley-112.jpg" alt="North Downs Way 100 - Aid 6"><figcaption>On the way to Aid Station 6 (Botley)</figcaption></figure>
 
 After about 20 miles of this pain and worry (cut-offs) I was really starting to get miserable. Definitely not enjoying things.  
 I cheered myself up slightly with the fact that I was coming to the 76 mile point and I’d get my drop bag. However I got the to aid station, Bluebell Hill, only to find that the drop bags were not till Detling at 82 miles. I had got to 76 miles in 19:49, just within my target time, but ugh… another 6 miles of plodding.
@@ -106,10 +106,10 @@ The Finish Line
 Finally I get to the stadium, hit the athletics track and shuffle my way around it.  
 Finishing in 28:53:28 for 153 place (of 188 finishers) and the third of my 100 mile Grand Slam buckles.
 
-<figure><img loading="lazy" decoding="async" src="assets/images/CENTR-19-NDW100-FINISH-669-1024x683.jpg" alt="North Downs Way 100 - Finish"></figure>
+<figure><img loading="lazy" decoding="async" src="assets/images/CENTR-19-NDW100-FINISH-669.jpg" alt="North Downs Way 100 - Finish"></figure>
 
 A volunteer brought me a chair and I promptly sat down and let the pressure drain away. All I could do was sit there at the side of the track with a cup of tea and a hotdog mustering up the energy to get changed and walk to my car.
 
-<figure><img loading="lazy" decoding="async" src="assets/images/IMG_20190804_110550-1024x768.jpg" alt="North Downs Way 100 - Collapsed in a chair"></figure>
+<figure><img loading="lazy" decoding="async" src="assets/images/IMG_20190804_110550.jpg" alt="North Downs Way 100 - Collapsed in a chair"></figure>
 
 One race to go. 10 weeks till the Autumn 100, possibly my favourite 100 miler so far and my first sub 24 hour 100.
