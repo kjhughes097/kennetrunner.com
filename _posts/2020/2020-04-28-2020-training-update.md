@@ -14,7 +14,7 @@ Thames Path actually got postponed until September in the end. Currently the Aut
 
 Training has been spotty to say the least. It was so bad there are actually a few bike trainer session in there !!
 
-<figure><img loading="lazy" decoding="async" src="assets/images/training-to-april-1024x552.png" alt="training-log-to-april-2020"></figure>
+<figure><img loading="lazy" decoding="async" src="assets/images/training-log-to-april.png" alt="training-log-to-april-2020"></figure>
 
 Not the kind of mileage needed for a 100 miler, so withdrawing was the right decision.
 
