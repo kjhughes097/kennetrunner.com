@@ -8,4 +8,4 @@ tags: [
 ]
 teaser: ""
 ---
-[assets/images/strava2015.mp4](assets/images/strava2015.mp4)
+{% include embed/video.html src='/assets/images/strava2015.mp4' %}

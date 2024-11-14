@@ -1,7 +1,7 @@
 ---
 title: "South Downs Way 100 – 2019 Race Report"
 date: "2019-06-15T22:20:50"
-image: "/assets/images/CENTR-19-SDW100-FINISH-702"
+image: "/assets/images/CENTR-19-SDW100-FINISH-702.jpg"
 tags: [
   "race-reports"
 ]
@@ -49,13 +49,13 @@ Coming off the final hill, down the ‘gulley’ towards the road I came across 
 
 When you get to the road there’s still a couple of miles to go. I recall for the SDW50 last year I put in a decent couple of 8:30 miles here for a strong finish. Not the case this year… More like 18 minute miles. The finish is at the sports centre and requires a lap of the athletics track (well, 300m of it). I don’t remember exactly but I think I picked up the pace and shuffle around to the finish.
 
--   <figure><img loading="lazy" decoding="async" src="assets/images/CENTR-19-SDW100-FINISH-700" alt="South Downs Way 100 - Finish 1" data-id="1226" data-link="https://kennetrunner.com/south-downs-way-100-2019-race-report/centr-19-sdw100-finish-700/"></figure>
+-   <figure><img loading="lazy" decoding="async" src="assets/images/CENTR-19-SDW100-FINISH-700.jpg" alt="South Downs Way 100 - Finish 1" data-id="1226" data-link="https://kennetrunner.com/south-downs-way-100-2019-race-report/centr-19-sdw100-finish-700/"></figure>
     
--   <figure><img loading="lazy" decoding="async" src="assets/images/CENTR-19-SDW100-FINISH-701" alt="South Downs Way 100 - Finish 2" data-id="1227" data-link="https://kennetrunner.com/south-downs-way-100-2019-race-report/centr-19-sdw100-finish-701/"></figure>
+-   <figure><img loading="lazy" decoding="async" src="assets/images/CENTR-19-SDW100-FINISH-701.jpg" alt="South Downs Way 100 - Finish 2" data-id="1227" data-link="https://kennetrunner.com/south-downs-way-100-2019-race-report/centr-19-sdw100-finish-701/"></figure>
     
 
 South Downs Way 100, race 2 of the Grand Slam complete in 26:28:25. I was disappointed with this time as I think I have a sub 24 hour in me. I’ll maybe have to have another bash at this one sometime.
 
-<figure><img loading="lazy" decoding="async" src="assets/images/CENTR-19-SDW100-FINISH-702" alt="South Downs Way 100 - Finish Buckle"></figure>
+<figure><img loading="lazy" decoding="async" src="assets/images/CENTR-19-SDW100-FINISH-702.jpg" alt="South Downs Way 100 - Finish Buckle"></figure>
 
 Next up is the North Downs Way 100 in 8 weeks.

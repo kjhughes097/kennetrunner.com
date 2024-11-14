@@ -37,4 +37,4 @@ I think I got the first 3 loops done in decent light, then headtorch on and crac
 
 All in all, I loved this race. I love the format, I love the terrain and I was pleased to finish in 13:43, which I’ll take given the (lack of) training.
 
-<figure><img loading="lazy" decoding="async" src="assets/images/CENTR-18-WW50-FINISH-427-1024x683.jpg" alt="Wendover Woods 50 - Finish"></figure>
+<figure><img loading="lazy" decoding="async" src="assets/images/CENTR-18-WW50-FINISH-427.jpg" alt="Wendover Woods 50 - Finish"></figure>
