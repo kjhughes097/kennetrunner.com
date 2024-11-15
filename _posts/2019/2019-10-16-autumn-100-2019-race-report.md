@@ -1,7 +1,7 @@
 ---
 title: "Autumn 100 – 2019 Race Report"
 date: "2019-10-16T18:34:25"
-image: "/assets/images/CENTR-19-A100-FINISH-449.jpg"
+image: "/assets/images/CENTR-19-A100-FINISH-446.jpg"
 tags: [
   "race-reports"
 ]

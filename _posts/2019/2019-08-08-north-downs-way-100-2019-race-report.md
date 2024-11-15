@@ -1,6 +1,7 @@
 ---
 title: "North Downs Way 100 – 2019 Race Report"
 date: "2019-08-08T11:54:05"
+image: "/assets/images/CENTR-19-NDW100-FINISH-669.jpg"
 tags: [
   "race-reports"
 ]
